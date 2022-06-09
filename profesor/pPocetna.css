@@ -5,6 +5,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    font-family: 'Source Sans Pro', sans-serif;;
 }
 .naslov{
     display: flex;
@@ -90,5 +91,13 @@ h1{
     color: white;
     font-weight: bold;
     background-color: red;
+    border-radius: 10px;
+}
+
+.lekcije{
+    padding: 20px 30px;
+    color: black;
+    font-weight: bold;
+    background-color: yellow;
     border-radius: 10px;
 }
