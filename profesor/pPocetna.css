@@ -66,6 +66,14 @@ h1{
     box-shadow: 6px 4px 20px 0px rgba(0,0,0,0.33);
 
 }
+
+.content-rez{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    width: 70%;
+    justify-content: space-between;
+}
 .content p{
     font-size: 20px;
 }
